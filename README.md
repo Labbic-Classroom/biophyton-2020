@@ -14,3 +14,9 @@ Material del curso de BioPython (2020). Notebooks de Jupyter cubriendo secuencia
 - Python / Jupyter
 - BioPython
 - Clustal Omega
+
+---
+
+## English
+
+BioPython course materials (2020). Jupyter notebooks covering sequences, alignments, and bioinformatic analysis with BioPython.
